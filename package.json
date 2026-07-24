@@ -1,0 +1,10 @@
+{
+  "name": "purescript-npm",
+  "version": "0.15.16-0x1",
+  "bin": {
+    "purs": "purs"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  }
+}
